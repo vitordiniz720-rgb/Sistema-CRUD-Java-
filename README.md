@@ -3,7 +3,7 @@ Um sistema simples e funcional de **CRUD** (Create, Read, Update, Delete) desenv
 
 ---
 
-## 📌 Sobre o Projeto
+## Sobre o Projeto
 
 Este projeto consiste em uma aplicação Java focada no gerenciamento e manipulação de dados em memória/console. Foi criado para demonstrar a aplicação prática de:
 
@@ -14,7 +14,7 @@ Este projeto consiste em uma aplicação Java focada no gerenciamento e manipula
 
 ---
 
-## ⚙️ Funcionalidades
+## Funcionalidades
 
 - [x] **Criar (Create):** Cadastrar novos registros com validação de dados.
 - [x] **Listar (Read):** Exibir todos os registros cadastrados ou buscar por ID/nome.
@@ -23,7 +23,7 @@ Este projeto consiste em uma aplicação Java focada no gerenciamento e manipula
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **Linguagem:** Java (JDK 17+)
 - **IDE recomendada:** Visual Studio Code / IntelliJ IDEA / Eclipse
